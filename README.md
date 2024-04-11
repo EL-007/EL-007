@@ -1,6 +1,6 @@
 👋 Hi, I’m @EL-007
 
-🔭 Currently working on: Repository> works2024
+🔭 Currently working on: Repository> works2024 & javaRepo
 
 🌱 I'm currently learning: Html coding in course ICS3U1
 
